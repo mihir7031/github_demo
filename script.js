@@ -100,14 +100,14 @@ pop2.onclick=function (){
     }
 }
 
-pop3.onclick=function (){
-    if(playModal.style.display === "none"){
-        playModal.style.display = "block";
-    }
-    else{
-        playModal.style.display = "none";
-    }
-}
+// pop3.onclick=function (){
+//     if(playModal.style.display === "none"){
+//         playModal.style.display = "block";
+//     }
+//     else{
+//         playModal.style.display = "none";
+//     }
+// }
 
 pop4.onclick=function (){
     if(playModal.style.display === "none"){
